@@ -1,0 +1,61 @@
+/*Cuerpo*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+.texto-destaque{
+    color: blue;
+}  
+.tex-gracias{
+    color: orangered;
+}
+
+}
+
+/* HEADER */
+header {
+    div {
+        background-color: #1F1717;
+        color: white;
+        padding: 50px;
+
+    }
+    strong {
+        margin: 10px ;
+        
+    }
+
+}
+
+/*MAIN */
+
+main {
+    background-color: #524C42;
+    color: white;
+
+p
+
+
+
+}
+
+
+
+
+/*FOOTR*/
+footer{
+    background-color: #1f1f1f;
+
+}
+
+
+
+
+
+
+
+
